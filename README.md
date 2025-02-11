@@ -1,6 +1,6 @@
 # tokenized_platform_requirements
 
-# Business Analysis for Crypto Payments Platform 🚀  
+# Business Analysis for Crypto Payments Platform 🚀  - WIP
 
 ## 🔍 Project Overview  
 This project analyzes and documents the **functional & non-functional requirements** for a **tokenized payment platform** in the Swiss banking ecosystem. It includes:  
