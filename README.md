@@ -9,10 +9,10 @@ This project analyzes and documents the **functional & non-functional requiremen
 - API Documentation (OpenAPI)  
 
 ## Repository Structure  
-- 📄 `docs/` → Business & regulatory documents  
-- 📊 `data/` → Sample transactions, SQL queries  
-- 📊 `dashboards/` → Power BI risk analysis  
-- 📡 `api/` → Payment API specification  
+- `docs/` → Business & regulatory documents  
+- `data/` → Sample transactions, SQL queries  
+- `dashboards/` → Power BI risk analysis  
+- `api/` → Payment API specification  
 
 ## Key Deliverables  
 - [Business Requirements Document (PDF)](docs/Business_Requirements_Document.pdf)  
@@ -27,5 +27,4 @@ This project analyzes and documents the **functional & non-functional requiremen
 
 ## Author  
 **[Oksana Yudina Lim]**  
-📧 Contact: oksana.yudina.lim@gmail.com 
 🔗 LinkedIn: [linkedin.com/in/oksana-lim](https://linkedin.com/in/oksana-lim)  
