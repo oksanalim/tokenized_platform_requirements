@@ -9,10 +9,10 @@ This project analyzes and documents the **functional & non-functional requiremen
 - API Documentation (OpenAPI)  
 
 ## Repository Structure  
-- `docs/` → Business & regulatory documents  
-- `data/` → Sample transactions, SQL queries  
-- `dashboards/` → Power BI risk analysis  
-- `api/` → Payment API specification  
+- `docs/` → for business/regulatory documents, diagrams, and other markdowns.  
+- `data/` → for sample transactions and any CSV or SQL files. 
+- `dashboards/` → for OpenAPI or other API docs.
+- `api/` → for BI or dashboard configuration files, images, or instructions.
 
 ## Key Deliverables  
 - [Business Requirements Document (PDF)](docs/Business_Requirements_Document.pdf)  
