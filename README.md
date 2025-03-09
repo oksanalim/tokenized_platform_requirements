@@ -1,5 +1,3 @@
-# tokenized_platform_requirements
-
 # Business Analysis for Crypto Payments Platform  - WIP
 
 ## Project Overview  
